@@ -1,2 +1,2 @@
-# C-R-U-D-agencia-de-viajes
-Ejercicio practico propuesto en desarrrollo se software 3
+# Travel agency desktop app
+Crafted with Java Swing and powered by MySQL, this desktop app revolutionizes travel agency operations. Seamlessly blending intuitive user interfaces with robust database capabilities, it offers efficient trip planning, booking, and customer management. Java Swing's versatility ensures a visually appealing experience, while the MySQL database enhances data reliability, making it an indispensable tool for travel agencies aiming to optimize operations and deliver a superior user experience.
